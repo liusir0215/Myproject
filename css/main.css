@@ -1,0 +1,6 @@
+div {
+  background-color: aliceblue; }
+  div .map {
+    width: auto;
+    height: inherit;
+    margin-bottom: auto; }
